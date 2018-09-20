@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project (2)",
+"dataUrl": "Viewer.data.unityweb",
+"asmCodeUrl": "Viewer.asm.code.unityweb",
+"asmMemoryUrl": "Viewer.asm.memory.unityweb",
+"asmFrameworkUrl": "Viewer.asm.framework.unityweb",
+"TOTAL_MEMORY": 2130706432,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
